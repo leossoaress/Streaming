@@ -1,7 +1,7 @@
 # STREAMING 4K
 
 This code is a project to Digital Video Applications Laboratory - LAVID. 
-The purpose of this code is create a 4K streamer using a camera of Point Grey.
+The purpose of this code is create a 4K streamer using a camera from Point Grey.
 
 ## Getting Started
 
