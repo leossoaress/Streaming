@@ -35,7 +35,7 @@ And next:
 
 ## Built With
 
-* [CLion] (https://www.jetbrains.com/clion/) - Used for code editting.
+* [CLion](https://www.jetbrains.com/clion/) - Used for code editting.
 
 ## Authors
 
