@@ -41,6 +41,7 @@ And next:
 
 * **Leoberto Soares** - [leossoaress](https://github.com/leossoaress)
 * **Lincoln David** - [Lincoln](http://lavid.ufpb.br/index.php/2015/10/23/lincoln-david/)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
